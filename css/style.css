@@ -15,7 +15,7 @@ body {
     color: #333;
     margin: 0;
     padding: 0;
-    background-image: url("../images/wallpaper.png");
+    background-image: url("../wallpaper/wallpaper.png");
     background-size: cover;
 }
 
@@ -521,7 +521,7 @@ button {
         color: #333;
         margin: 0;
         padding: 0;
-        background-image: url("../images/wallpaper.png");
+        background-image: url("../wallpaper/wallpaper.png");
         background-size: cover;
     }
 
